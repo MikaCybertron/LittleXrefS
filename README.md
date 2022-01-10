@@ -9,3 +9,6 @@ How to use:
 *load libil2cpp.so and json of the dump
 *Input the full class name and its sub namespaces
 *Input the offset
+
+Dependecies:
+Capstone
